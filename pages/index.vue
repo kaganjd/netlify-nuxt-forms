@@ -35,7 +35,7 @@
         </div>
         <button>Submit</button>
       </form>
-      <div class="linkfunction"><a href="https://examples.netlify.horse/.netlify/functions/return-host">check your "host" header, why not?</a></div>
+      <div class="linkfunction"><a href="/return-host">check your "host" header, why not?</a></div>
     </div>
 </template>
 

@@ -4,6 +4,12 @@
   functions = "functions"
   publish = "dist"
 
+[[redirects]]
+  from = "/return-host"
+  to = "https://examples.netlify.horse/.netlify/functions/return-host"
+  status = 200
+  force = true
+
   ## Uncomment to use this redirect for Single Page Applications like create-react-app. 
   ## Not needed for static site generators.
   #[[redirects]]
