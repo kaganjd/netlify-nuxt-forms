@@ -5,7 +5,7 @@
   publish = "dist"
 
 [[redirects]]
-  from = "/return-host"
+  from = "/return-host/:drinkType"
   to = "https://examples.netlify.horse/.netlify/functions/return-host"
   status = 200
   force = true
