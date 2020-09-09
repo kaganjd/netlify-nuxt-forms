@@ -6,7 +6,7 @@
 
 [[redirects]]
   from = "/return-host/:drinkType"
-  to = "https://examples.netlify.horse/.netlify/functions/return-host"
+  to = "https://nostalgic-payne-051c14.netlify.app/.netlify/functions/return-host"
   status = 200
   force = true
 
