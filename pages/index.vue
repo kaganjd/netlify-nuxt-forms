@@ -35,7 +35,6 @@
         </div>
         <button>Submit</button>
       </form>
-      <div class="linkfunction"><a href="/return-host/tea">check your "host" header, why not?</a></div>
     </div>
 </template>
 
