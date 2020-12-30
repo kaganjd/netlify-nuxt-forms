@@ -3,6 +3,7 @@
     <div>
       <h1>Thanks for submitting your tea!</h1>
     </div>
+    <router-link to="/">Go back</router-link>
   </div>
 </template>
 
