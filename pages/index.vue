@@ -10,11 +10,9 @@
         method="post"
         data-netlify-honeypot="bot-field"
         @submit.prevent="handleSubmit"
-        data-netlify-recaptcha="true"
       >
         <input type="hidden" name="form-name" value="vue-tea" />
         <div class="tea">
-          <div data-netlify-recaptcha="true"></div>
           <label
             v-for="tea in teaNames"
             :key="tea"
